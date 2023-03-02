@@ -66,6 +66,6 @@ You can click the Preview link to take a look at your changes.
 [一看就懂的OpenGL ES教程——缓冲对象优化程序（二）](https://juejin.cn/post/7149775557398364167)  
 [一看就懂的OpenGL ES教程——临摹画手的浪漫之纹理映射(理论篇)](https://juejin.cn/post/7150869291208802341)  
 [一看就懂的OpenGL ES教程——临摹画手的浪漫之纹理映射(实践篇)](https://juejin.cn/post/7155040552353234951)  
-[一看就懂的OpenGL ES教程——渲染宫崎骏动漫重拾童年](https://juejin.cn/post/7160304816877469733)
+[一看就懂的OpenGL ES教程——渲染宫崎骏动漫重拾童年](https://juejin.cn/post/7160304816877469733)  
 [一看就懂的OpenGL ES教程——仿抖音滤镜的各种奇技淫巧之基础滤镜](https://juejin.cn/post/7168042219163779108)  
 [一看就懂的OpenGL ES教程——仿抖音滤镜的奇技淫巧之变换滤镜（理论基础篇）](https://juejin.cn/post/7204349756621439036)
