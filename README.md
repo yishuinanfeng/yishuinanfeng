@@ -69,3 +69,4 @@ You can click the Preview link to take a look at your changes.
 [一看就懂的OpenGL ES教程——渲染宫崎骏动漫重拾童年](https://juejin.cn/post/7160304816877469733)  
 [一看就懂的OpenGL ES教程——仿抖音滤镜的各种奇技淫巧之基础滤镜](https://juejin.cn/post/7168042219163779108)  
 [一看就懂的OpenGL ES教程——仿抖音滤镜的奇技淫巧之变换滤镜（理论基础篇）](https://juejin.cn/post/7204349756621439036)
+[一看就懂的OpenGL ES教程——仿抖音滤镜的奇技淫巧之变换滤镜（实践篇）](https://juejin.cn/post/7217373379343286329)
